@@ -11,16 +11,26 @@ body {
   background-color: lightcoral;
 }
 
+p {
+  font-size: large;
+}
+
 .center h2 {
   text-align: center;
 }
 
 .leftcolumn p {
-  width: 300px;
+  width: 400px;
   float: left;
+  margin: auto;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .centercolumn p {
-  width: 300px;
-  float: center;
+  width: 400px;
+  float:right;
+  margin: auto;
+  margin-left: 20px;
+  margin-right: 20px;
 }
