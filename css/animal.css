@@ -7,6 +7,15 @@ h2 {
   font-family:'Courier New', Courier, monospace;
 }
 
+body {
+  background-color: lightcoral;
+}
+
 .center h2 {
   text-align: center;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
