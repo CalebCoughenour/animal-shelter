@@ -27,10 +27,18 @@ p {
   margin-right: 20px;
 }
 
-.centercolumn p {
+.rightcolumn p {
   width: 400px;
   float:right;
   margin: auto;
   margin-left: 20px;
+  margin-right: 20px;
+}
+
+img {
+  border: solid black;
+  float: left;
+  padding: 5px;
+  margin: auto;
   margin-right: 20px;
 }
