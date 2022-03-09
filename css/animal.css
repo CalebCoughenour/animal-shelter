@@ -15,7 +15,12 @@ body {
   text-align: center;
 }
 
-.column {
+.leftcolumn p {
   width: 300px;
   float: left;
+}
+
+.centercolumn p {
+  width: 300px;
+  float: center;
 }
