@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+  font-family:'Courier New', Courier, monospace;
+}
+
+.center h2 {
+  text-align: center;
+}
